@@ -28,6 +28,7 @@ public class Calculator {
 	JButton button9 = new JButton();
 	JButton button0 = new JButton();
 	
+	
 	JButton buttonadd = new JButton();
 	JButton buttonsub = new JButton();
 	JButton buttonmul = new JButton();
@@ -61,6 +62,10 @@ public class Calculator {
 		
 		textarea.setPreferredSize(new Dimension(2,10));
 		textarea.setLineWrap(true);
+
+		//This is a new line
+
+
 	
 		
 		
